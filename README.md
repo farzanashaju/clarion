@@ -4,6 +4,14 @@ This project, developed for Megathon '25, addresses the significant revenue loss
 
 **DATASET:** [Auto Insurance Churn Analysis (Kaggle)](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset)
 
+## Run Demo
+
+```
+cd xgboost-app
+pip install -r requirements.txt
+streamlit run app.py
+```
+
 ## Data Preprocessing
 
 ```
